@@ -1,0 +1,4 @@
+documents:
+  - source: sources/cc-24229.adoc
+  - source: sources/iso-24229.adoc
+    visibility: private
