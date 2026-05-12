@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'metanorma-cli'
-gem 'structured_csv'
+gem "metanorma-cli"
+
