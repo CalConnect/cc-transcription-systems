@@ -1,5 +1,0 @@
-# .metanorma/channels.yml — cc-transcription-systems
-
-channels:
-  - name: public/standards
-    description: "CalConnect documents from cc-transcription-systems"
