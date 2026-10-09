@@ -23,6 +23,12 @@
 
 
 include::sections-cc/00-foreword.adoc[]
+
+[abstract]
+== Abstract
+
+This document provides principles for establishing codes for the representation of written language conversion systems, including transliteration and romanization systems, in coded form, for use in any application requiring their expression.
+
 include::sections/00-intro.adoc[]
 include::sections/01-scope.adoc[]
 include::sections/02-norm-refs.adoc[]
